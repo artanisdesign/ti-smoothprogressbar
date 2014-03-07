@@ -12,27 +12,34 @@ To access this module from JavaScript, you would do the following:
 
 The TiSmoothProgressBar variable is a reference to the Module object.	
 
-## Reference
+### TiSmoothProgressBar.createSmoothProgressBar({..});
 
-TODO: If your module has an API, you should document
-the reference here.
+Creates a TiSmoothProgressBar view, what you need to add to the view hiearchy.
 
-### ___PROJECTNAMEASIDENTIFIER__.function
+### Arguments
 
-TODO: This is an example of a module function.
+Arguments are optional. Take a look on the Usage part, you can set basic View properties too.
 
-### ___PROJECTNAMEASIDENTIFIER__.property
+### Usage
 
-TODO: This is an example of a module property.
+	TiSmoothProgressBar.createSmoothProgressBar({
+			height : Ti.UI.SIZE,
+			top : 20,
+			width : Ti.UI.FILL,
+			color : "green", //color of the bar
+			sectionsCount : 4, //default 
+			separatorLength : 4, //default 8,
+			strokeWidth : 12, //default 10
+			speed : 1.0, //default 1.0
+			reversed : true, //default false
+			mirrorMode : false, //default false
+			interpolator : TiSmoothProgressBar.ACCELERATE //default .LINEAR
+		});
 
-## Usage
-
-TODO: Enter your usage example here
 
 ## Author
 
-TODO: Enter your author name, email and other contact
-details you want to share here. 
+Artanis, Gergely Cziva, info@artanisdesign.eu
 
 ## License
 
