@@ -2,12 +2,12 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.1
+version: 1.0
 apiversion: 2
-description: My module
-author: Artanis
-license: Specify your license
-copyright: Copyright (c) 2014 by Your Company
+description: TiSmoothProgressBar module, wrapper for SmoothProgressBar, custom android progressbar
+author: Artanis, Gergely Cziva
+license: Apache License, Version 2.0
+copyright: Copyright (c) 2014 by Artanis, artanis.design, Hungary
 
 
 # these should not be edited

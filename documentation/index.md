@@ -1,16 +1,16 @@
-# tismoothprogressbar Module
+# TiSmoothProgressBar Module
 
 ## Description
 
-TODO: Enter your module description here
+Provides ProgressBar view for Titanium Android, which can be esaily customized.
 
-## Accessing the tismoothprogressbar Module
+## Accessing the TiSmoothProgressBar Module
 
 To access this module from JavaScript, you would do the following:
 
-	var tismoothprogressbar = require("com.artanisdesign.tismoothprogressbar");
+	var TiSmoothProgressBar = require("com.artanisdesign.tismoothprogressbar");
 
-The tismoothprogressbar variable is a reference to the Module object.	
+The TiSmoothProgressBar variable is a reference to the Module object.	
 
 ## Reference
 
@@ -36,4 +36,4 @@ details you want to share here.
 
 ## License
 
-TODO: Enter your license/legal information here.
+Apache License, Version 2.0
