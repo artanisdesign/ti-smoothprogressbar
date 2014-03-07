@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Artanis
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: tismoothprogressbar
+moduleid: com.artanisdesign.tismoothprogressbar
+guid: be8b9066-6c1d-40d1-a693-152b1c9decdf
+platform: android
+minsdk: 3.2.1.GA
