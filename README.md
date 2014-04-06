@@ -2,7 +2,7 @@
 
 ## Description
 
-Provides ProgressBar view for Titanium Android, which can be esaily customized.
+Provides ProgressBar view for Titanium Android, which can be esaily customized. It's a wrapper for [SmoothProgressBar made by Antoine Merle](https://github.com/castorflex/SmoothProgressBar), castorflex. Special thanks for him!
 
 ![Image](../master/example/smoothprogress.gif)
 
