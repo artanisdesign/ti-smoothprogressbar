@@ -1,4 +1,6 @@
 tmp
 bin
 build
-.apt_generated
+.apt_generated,
+.DS_Store
+.settings
