@@ -39,8 +39,8 @@ Arguments are optional. Take a look on the Usage part, you can set basic View pr
 
 ## Author
 
-Artanis, Gergely Cziva, info@artanisdesign.eu
+Artanis, Gergely Cziva, info@artanisdesign.eu, Twitter:  @_artanis_
 
 ## License
 
-Apache License, Version 2.0
+MIT

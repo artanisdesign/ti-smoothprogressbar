@@ -1,0 +1,32 @@
+<h1>TiSmoothProgressBar Module</h1>
+<h2>Description</h2>
+<p>Provides ProgressBar view for Titanium Android, which can be esaily customized.</p>
+<h2>Accessing the TiSmoothProgressBar Module</h2>
+<p>To access this module from JavaScript, you would do the following:</p>
+<pre><code>var TiSmoothProgressBar = require("com.artanisdesign.tismoothprogressbar");
+</code></pre>
+<p>The TiSmoothProgressBar variable is a reference to the Module object. <br />
+</p>
+<h3>TiSmoothProgressBar.createSmoothProgressBar({..});</h3>
+<p>Creates a TiSmoothProgressBar view, what you need to add to the view hiearchy.</p>
+<h3>Arguments</h3>
+<p>Arguments are optional. Take a look on the Usage part, you can set basic View properties too.</p>
+<h3>Usage</h3>
+<pre><code>TiSmoothProgressBar.createSmoothProgressBar({
+        height : Ti.UI.SIZE,
+        top : 20,
+        width : Ti.UI.FILL,
+        color : "green", //color of the bar
+        sectionsCount : 4, //default 
+        separatorLength : 4, //default 8,
+        strokeWidth : 12, //default 10
+        speed : 1.0, //default 1.0
+        reversed : true, //default false
+        mirrorMode : false, //default false
+        interpolator : TiSmoothProgressBar.ACCELERATE //default .LINEAR
+    });
+</code></pre>
+<h2>Author</h2>
+<p>Artanis, Gergely Cziva, info@artanisdesign.eu</p>
+<h2>License</h2>
+<p>Apache License, Version 2.0</p>
