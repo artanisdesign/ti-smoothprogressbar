@@ -4,6 +4,8 @@
 
 Provides ProgressBar view for Titanium Android, which can be esaily customized.
 
+![Image](../tree/master/app/example.gif)
+
 ##Before you start
 * This is an Android module designed to work with Titanium SDK 3.2.0 or greater.
 * Before getting start please note you might need to compile this module yourself
