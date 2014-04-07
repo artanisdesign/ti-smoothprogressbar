@@ -6,7 +6,7 @@ version: 1.0
 apiversion: 2
 description: TiSmoothProgressBar module, wrapper for SmoothProgressBar, custom android progressbar
 author: Artanis, Gergely Cziva
-license: Apache License, Version 2.0
+license: MIT
 copyright: Copyright (c) 2014 by Artanis, artanis.design, Hungary
 
 
